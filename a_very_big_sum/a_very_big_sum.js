@@ -32,15 +32,10 @@ function aVeryBigSum(ar) {
       }
     }
     
+    console.log(sum)
     return sum;
-  }
-  
-  
-  aVeryBigSum([1000000001, 
-               1000000002,
-               1000000003,
-               1000000004,
-               1000000005]);
+  };
 
-  aVeryBigSum([10,10,10,10]);
-  aVeryBigSum([ 80, 5,10,9,9,9,7,55555]);
+
+
+  module.exports = aVeryBigSum;
