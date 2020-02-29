@@ -1,8 +1,14 @@
 
 
 
-// return the longest even lenght wors
-// LONGEST EVEN LENGTH
+// LONGEST EVEN LENGTH - find the largest even length in a string. 
+
+
+
+
+
+
+
 
 // i would need to be able to break the words in the sentence up into an array
 // go through all the words in the array to 
