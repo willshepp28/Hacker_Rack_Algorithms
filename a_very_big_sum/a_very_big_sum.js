@@ -31,8 +31,6 @@ function aVeryBigSum(ar) {
         sum = sum + ar[i];
       }
     }
-    
-    console.log(sum)
     return sum;
   };
 

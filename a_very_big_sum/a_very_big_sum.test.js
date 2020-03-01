@@ -18,3 +18,4 @@ test("Testing aVeryBigSum with 80, 5,10,9,9,9,7,55555 ", () => {
     let arr = aVeryBigSum([80, 5,10,9,9,9,7,55555]);
     expect(arr).toEqual(55684)
 });
+
